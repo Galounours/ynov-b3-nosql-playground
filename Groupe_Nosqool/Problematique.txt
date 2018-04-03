@@ -1,1 +1,3 @@
-﻿Problématique : MMORPG
+﻿Problématique : MMORPG international
+Serveurs en Europe, Asie, Amériques, Océanie.
+-> MySQL impossible à cause de la séparation des serveurs, et du nombre important d'entrées régulières dans la BDD.
