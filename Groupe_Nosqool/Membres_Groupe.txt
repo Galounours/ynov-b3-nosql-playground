@@ -2,3 +2,4 @@ Galaad Stilgenbauer
 Kevin Nandelec
 Jonathan Touchard
 Aymeric Couteau
+Bastien Coadou
